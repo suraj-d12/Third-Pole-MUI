@@ -1,4 +1,4 @@
-oimport React from 'react';
+import React from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
 import ChartComponent from '../ChartComponent';
 import { glacierData } from '../../data/glacierData';

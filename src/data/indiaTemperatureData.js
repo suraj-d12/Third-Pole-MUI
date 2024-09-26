@@ -25,4 +25,3 @@ export const indiaTemperatureData = [
   { year: 2023, temperature: 26.15 },
 ];
 
-];
