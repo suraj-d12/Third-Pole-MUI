@@ -1,7 +1,7 @@
 {
   "name": "thirdpole",
   "version": "0.1.0",
-  "homepage": "https://suraj-d12.github.io/thirdpole",
+  "homepage": "https://suraj-d12.github.io/Third-Pole-MUI",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.3",
