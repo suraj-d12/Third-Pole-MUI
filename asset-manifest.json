@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thirdpole/static/css/main.e6c13ad2.css",
+    "main.js": "/thirdpole/static/js/main.3c46c7a5.js",
+    "static/js/453.e0cf10e4.chunk.js": "/thirdpole/static/js/453.e0cf10e4.chunk.js",
+    "index.html": "/thirdpole/index.html",
+    "main.e6c13ad2.css.map": "/thirdpole/static/css/main.e6c13ad2.css.map",
+    "main.3c46c7a5.js.map": "/thirdpole/static/js/main.3c46c7a5.js.map",
+    "453.e0cf10e4.chunk.js.map": "/thirdpole/static/js/453.e0cf10e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3c46c7a5.js"
+  ]
+}
